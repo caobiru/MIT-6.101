@@ -7,7 +7,7 @@ Week 1 Lab: Image Processing
 
 Week 2 Lab: Image Processing, Part 2
 
-Week 3 Readings: Flood Fill, Week 3 Readings: Flood Fill
+Week 3 Reading: Flood Fill | Lab: Bacon Number
 
 Week 4 Lab: Snekoban
 
