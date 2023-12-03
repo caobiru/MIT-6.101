@@ -12,3 +12,5 @@ Week 3 Readings: Flood Fill, Week 3 Readings: Flood Fill
 Week 4 Lab: Snekoban
 
 Week 6 Lab: Recipes
+
+Week 7 Lab: Mines
