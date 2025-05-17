@@ -1,4 +1,4 @@
-# MIT-6.101
+# Fundamentals of Programming
 Fundamentals of Programming (Fall 2023)
 
 Week 0: Reading: Intro | Lab: Audio Processing
